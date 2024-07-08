@@ -9,7 +9,7 @@ from talipp.indicators import RSI
 
 
 TOKEN = (
-    'MTI1NDcxMTg4MjUxODg4ODU4Mg.GbUn-P.NRkAtV2tfzAvBUFaHTsv5TNmBiLNq4x1qkIDSY'
+    'DISCORD BOT TOKEN'
 )
 RSI_SETTINGS = {
     'period': 14,
